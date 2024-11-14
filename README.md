@@ -18,5 +18,5 @@ A simple Task Manager application built with React for adding, deleting, and man
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sumitpargunde/Task_Manager_App.git
-   cd my-app
+   
    ```
